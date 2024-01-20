@@ -1,0 +1,28 @@
+* {
+    margin: 0px;
+    padding: 0px;
+}
+
+.idz {
+    height: 300px;
+    width: 20px;
+    border-style: solid;
+}
+
+.names {
+    height: 300px;
+    width: 150px;
+    border-style: solid;
+}
+
+.emails {
+    height: 300px;
+    width: 200px;
+    border-style: solid;
+}
+
+.created {
+    height: 300px;
+    width: 200px;
+    border-style: solid;
+}
